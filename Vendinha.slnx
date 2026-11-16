@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Vendinha.Dados/Vendinha.Dados.csproj" />
+  <Project Path="Vendinha.Desktop/Vendinha.Desktop.csproj" />
+  <Project Path="Vendinha.Negocio/Vendinha.Negocio.csproj" />
+</Solution>
